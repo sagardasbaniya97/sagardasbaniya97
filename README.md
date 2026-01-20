@@ -40,7 +40,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagardasbaniya97&show_icons=true&locale=en&layout=compact" alt="sagardasbaniya97" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagardasbaniya97&show_icons=true&locale=en" alt="sagardasbaniya97" /></p>
-
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagardasbaniya97&" alt="sagardasbaniya97" /></p> 
-
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagardasbaniya97" alt="sagardasbaniya97" /></a> </p>
