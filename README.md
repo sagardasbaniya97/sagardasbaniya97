@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abhinandan_sah1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinandan_sah1" height="30" width="40" /></a>
+<a href="https://x.com/baniya_das13798" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinandan_sah1" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sagar-das-baniya/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/sagardasbaniya97/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sagar-das-baniya" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20596386/sagardasbaniya97" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20596386/sagardasbaniya97" height="30" width="40" /></a>
 <a href="https://www.instagram.com/avi_as/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/avi_as?igsh=ytqwzjq0nmi0oa==" height="30" width="40" /></a>
